@@ -1,0 +1,17 @@
+.display{
+  margin: 10px;
+  width: 175px;
+  font-size: 20px;
+}
+
+.buttoncontainer{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+}
+
+.button{
+  height: 45px;
+  width: 45px;
+  margin: 3px;
+}
